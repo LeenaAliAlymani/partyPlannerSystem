@@ -8,10 +8,10 @@ First, the user must enter his data, including a name, phone number, and address
 
 
 -- team members:
-Leena Ali Alymani 
-Reham Fwzan Almatrafi
-Dania Muhammad Alhazmi
-Amira Mastour Alharthi 
+Leena Ali Alymani ,
+Reham Fwzan Almatrafi,
+Dania Muhammad Alhazmi,
+Amira Mastour Alharthi ,
 Walaa Mlfi ALluqmani
 
 
